@@ -1,0 +1,41 @@
+.card{
+    display:flex;
+    margin: 20px;
+    font-size: 16px;
+    font-family: 'visitor1';
+    box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.2);
+    color:burlywood;
+
+}
+
+table {
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 40px;
+  }
+    
+  th {
+    border-bottom: 1px solid black;
+  }
+    
+  td {
+    text-align: left;
+    width: 250px;
+    padding-left:5px;
+  }
+  .td2{
+    text-align:right;
+    padding-right:5px;
+    width: 200px;
+  }
+
+  .td3{
+    text-align:right;
+    padding-right:5px;
+    width: 50px;
+  }
+
+  .tablebutton{
+    font-size:18px;
+    padding: 0px 8px;
+  }

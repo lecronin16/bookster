@@ -1,0 +1,16 @@
+.home2{
+    margin:auto;
+    text-align: center;
+    background-image: url(/src/assets/menupixel.jpg);
+    width:35%;
+    padding: 20px;
+    margin-top:200px;
+    color:burlywood;
+    margin-bottom:200px;
+}
+
+.login{
+    text-decoration: none;
+    font-size:20px;
+    color:burlywood;
+}
